@@ -4,3 +4,6 @@
 如果您觉得代码写的不错，就点个Star吧！<br>
 ## 运行流程
 data_preprocess.py -> train_model -> evaluate_model;<br>
+## 结果
+最后结果如下所示：
+![translation result](https://github.com/zw76859420/NMT_Keras/tree/master/picture/reslut.png)
