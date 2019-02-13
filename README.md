@@ -6,4 +6,4 @@
 data_preprocess.py -> train_model -> evaluate_model;<br>
 ## 结果
 最后结果如下所示：
-![translation result](https://github.com/zw76859420/NMT_Keras/tree/master/picture/reslut.png)
+![translation result](https://github.com/zw76859420/NMT_Keras/tree/master/picture/result.png)
